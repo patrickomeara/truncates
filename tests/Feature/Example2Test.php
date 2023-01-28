@@ -6,7 +6,7 @@ use App\Models\User;
 use Illuminate\Foundation\Testing\DatabaseTruncates;
 use Tests\TestCase;
 
-class ExampleTest extends TestCase
+class Example2Test extends TestCase
 {
     use DatabaseTruncates;
     // use DatabaseMigrations;
